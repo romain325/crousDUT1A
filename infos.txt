@@ -1,0 +1,8 @@
+DOLLET --> chambres, studios, T1
+La Gare --> studios
+Hauts de LaFayette --> studios
+Les Laureats --> studios, T1, T2
+Amboise --> chambres, studios,T1,T2
+Cite 1 --> chambres
+Cite 2 --> chambres
+Pasteur --> studios

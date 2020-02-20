@@ -1,0 +1,13 @@
+***************************************************TRAVAIL A FAIRE*****************************************************
+	
+D	1--> Charger les trois fichiers en mémoire
+D	2--> Affichage liste logements dispo triés par cité
+D	3--> Liste logements occupés avec identité de l'etu dedans
+D	4--> liste de logements de demande en attente
+D	5--> traitement des demandes, attribution libre aux demandeurs
+D	6--> saisie nouvelle demande logement(crée etu si nouveau + enregistrement demande dans celles en attente)
+D	7--> annulation demande de logement pas encore traitée
+D	8--> libertation d'un logement -- traitement de demande en attente afin de peut etre répondre à une demande
+D	9--> sauvegarde de l'ensemble des données dans les trois fichiers
+
+***********************************************************************************************************************
